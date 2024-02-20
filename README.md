@@ -44,7 +44,7 @@ Agrega todos los archivos al staging area dentro de tu folder
 ### ```git commit -m "Mensaje Descriptivo de tu commit"```
 Guarda los cambios en el repositorio con un mensaje descriptivo.
 
-### ```git remote add <nombre> <url>  ```
+### ```git remote add origin <url>  ```
 Agrega un nuevo remoto, es decir, agrega tu repositorio a la nube, como github
 
 ### ```git push origin <branch>```
