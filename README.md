@@ -47,7 +47,7 @@ Guarda los cambios en el repositorio con un mensaje descriptivo.
 ### ```git remote add <nombre> <url>  ```
 Agrega un nuevo remoto, es decir, agrega tu repositorio a la nube, como github
 
-### ```git push```
+### ```git push origin <branch>```
 Envía los commits locales a un repositorio remoto.
 
 ### ``` git pull ```
