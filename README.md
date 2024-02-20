@@ -50,8 +50,6 @@ Agrega un nuevo remoto, es decir, agrega tu repositorio a la nube, como github
 ### ```git push```
 Envía los commits locales a un repositorio remoto.
 
-### 
-
 ### ``` git pull ```
 Obtiene los cambios que existen de tu repositorio remoto 
 
@@ -79,3 +77,30 @@ Clona un repositorio remoto, si es privado tendrás que tener acceso al mismo
 
 ![Selecciona si quieres iniciar un proyecto o clonar](https://cdn.discordapp.com/attachments/787786979940368384/1209550692419764254/image.png?ex=65e754dd&is=65d4dfdd&hm=04fbdea5bc809569ef7a49720c7cd4ac78cea54776f23a685a96135812617701&)
 
+### Si tienes uno existente en github, puedes clonarlo
+![Wizard para clonar](https://cdn.discordapp.com/attachments/787786979940368384/1209554543222726707/clone-wizard-small.png?ex=65e75873&is=65d4e373&hm=3d4f1d5d532b5a6403de6747dbb2cd1f2a7d7076ddf954193a54aca04aaefb74&)
+
+
+### Una vez que hayas creado el repositorio los archivos añadidos aparecerán de la siguiente manera
+![Se pone en verde el archivo](https://cdn.discordapp.com/attachments/787786979940368384/1209553531866972344/image.png?ex=65e75782&is=65d4e282&hm=575e1aa086884d2f0df70a7677d1b38d7fcabd0d71dbfb359b33865227cca20f&)
+
+### Y tendrás un nuevo menú para trabajar con tu repositorio
+![Nuevo Menu](https://cdn.discordapp.com/attachments/787786979940368384/1209558949528084603/image.png?ex=65e75c8e&is=65d4e78e&hm=8f01295ba566335b6087eee78f6419349810a4551e82bc9ae9ca7df2484067ee&)
+
+### Viendo los cambios al trabajar en tu proyecto
+
+- Azul: Líneas que han cambiado desde la versión anterior
+- Verde: Líneas que han sido añadidas desde la versión anterior
+- Rojo: Líneas que han sido removidas desde la versión anterior
+
+![Ejemplo de las líneas](https://cdn.discordapp.com/attachments/787786979940368384/1209555882388492330/left-margin.png?ex=65e759b2&is=65d4e4b2&hm=0b2341392e5c91a28085f1b5e0c057d4399b780ad423c4eaf85a1fe745510730&)
+
+### Haz tu commit
+Netbeans te proporciona una GUI para poder escribir tu mensaje, ver los archivos que serán cambiados, borrados y/o agregados.
+
+![Commit](https://cdn.discordapp.com/attachments/787786979940368384/1209560122830098523/image.png?ex=65e75da5&is=65d4e8a5&hm=d9efff6ce680bcb8ec44257d45cda5e7ccd8e10d5907481fa84ecdf4edc98148&)
+
+### Sube tus cambios a tu repositorio de github
+Entra a Teams --> Remote --> Push. Escribe tu repositorio (no olvides https) y digita tus credenciales
+
+![Push](https://cdn.discordapp.com/attachments/787786979940368384/1209561211289608192/image.png?ex=65e75ea9&is=65d4e9a9&hm=90983be7cb7675600fd3bcf8b4b450d11130119e2875f8b06ec5d32b4f7f7b7a&)
